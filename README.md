@@ -1,3 +1,13 @@
+## TO COMPILE
+
+1. Navigate to program
+2. sudo apt-get install libboost-all-dev
+3. mkdir OutputLinux
+4. cd OutputLinux
+5. cmake . ..
+6. make
+7. Locate output binaries cmvs, genOption, and pmvs2 under OutpuxLinux/main
+
 This is a modified version of CMVS/PMVS.
 
 Main modification:
